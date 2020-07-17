@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning React, React Native, Node.js, Java and a little bit of web design, UI/UX.
+🌱 I’m currently learning ReactJS, React Native, Node.js, Java and web design (UI/UX)
 <!--
 **stoneparker/stoneparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
