@@ -1,5 +1,8 @@
 ### Hi there 👋
-🌱 I’m currently learning ReactJS, React Native, Node.js, Python, Java and web design (UI/UX)
+- 🌱 I’m currently learning ReactJS, Node.js, TypeScript, MongoDB and Socket.IO
+- 👯 I’m looking to collaborate on social projects
+- 😄 Pronouns: she/her
+
 <!--
 **stoneparker/stoneparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
