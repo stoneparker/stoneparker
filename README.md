@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ReactJS, Node.js, TypeScript, MongoDB and Socket.IO
+- 🌱 I’m currently learning Next.js, Node.js and Framer Motion 🤘
 - 👯 I’m looking to collaborate on social projects
 - 😄 Pronouns: she/her
 
