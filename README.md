@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning Next.js, Node.js and Framer Motion 🤘
 - 👯 I’m looking to collaborate on social projects
 - 😄 Pronouns: she/her
-- 🔭 I’m currently working on 55PBX
 
 <!--
 **stoneparker/stoneparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
