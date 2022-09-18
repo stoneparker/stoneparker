@@ -4,7 +4,7 @@ I'm a Software Engineer at 55PBX and Computer Informational Systems student at U
 
 At my job, I work mainly with technologies: Node.js, ReactJS, React Native, Redux and Styled-Components, with JavaScript and TypeScript, and MongoDB and MySQL databases.
 
-Currently, at my spare time, I'm focusing on improving my knowledge in:
+Currently, I'm focusing on improving my knowledge in:
   - 🎨 Accessible and responsive webdesign
   - 🌀 Event loop, child process and cluster with Node.js
 
