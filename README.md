@@ -1,6 +1,6 @@
 ### Hi there, my name is Vitória 👋
 
-I'm a Fullstack Engineer at 55PBX and Computer Informational Systems student at University of São Paulo (USP).
+I'm a Software Engineer at 55PBX and Computer Informational Systems student at University of São Paulo (USP).
 
 At my job, I work mainly with technologies: Node.js, ReactJS, React Native, Redux and Styled-Components, with JavaScript and TypeScript, and MongoDB and MySQL databases.
 
